@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101018"/><stop offset="1" stop-color="#1b1425"/></linearGradient><radialGradient id="glow"><stop stop-color="#bba2ff" stop-opacity=".34"/><stop offset="1" stop-color="#bba2ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="420" rx="22" fill="url(#bg)"/><circle cx="987" cy="100" r="320" fill="url(#glow)"/>
+<g fill="none" stroke="#bda6f6" opacity=".17"><circle cx="1010" cy="205" r="145"/><circle cx="1010" cy="205" r="112"/><circle cx="1010" cy="205" r="79"/><path d="M1010 29v352M834 205h352M885 80l250 250M1135 80 885 330"/></g>
+<g fill="#cbb7ff"><circle cx="1010" cy="205" r="6"/><circle cx="1010" cy="60" r="4"/><circle cx="1122" cy="205" r="4"/><circle cx="931" cy="205" r="4"/></g>
+<text x="82" y="97" fill="#bda6f6" font-family="monospace" font-size="16" letter-spacing="5">PERSONAL SPACE / 001</text>
+<text x="76" y="216" fill="#f4f0ff" font-family="Arial, sans-serif" font-weight="700" font-size="82" letter-spacing="-3">volojenec<tspan fill="#bda6f6">.</tspan></text>
+<text x="82" y="270" fill="#a7a0b2" font-family="monospace" font-size="19" letter-spacing="2">IDEAS  /  PROJECTS  /  EXPERIMENTS</text>
+<rect x="82" y="320" width="140" height="2" fill="#bda6f6"/><text x="82" y="360" fill="#bda6f6" font-family="monospace" font-size="14" letter-spacing="3">CATALYST 26.2</text>
+</svg>
