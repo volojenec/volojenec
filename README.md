@@ -2,6 +2,7 @@
 
 # 💮 volojenec
 
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)]
 
 ## `$ whoami volojenec`
 </div>
@@ -28,6 +29,7 @@ volojenec@github:~$ ./status
 ## `$ find`
 
 [![GitHub](https://img.shields.io/badge/GitHub-volojenec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/volojenec)
+
 
 <sub>💮 &nbsp; made with curiosity &nbsp; · &nbsp; volojenec</sub>
 
