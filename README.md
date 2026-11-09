@@ -2,13 +2,11 @@
 
 # 💮 volojenec
 
-`projects`
-
 </div>
 
 ---
 
-## `$ whoami` `volojenec`
+## `$ whoami volojenec`
 
 ```text
 volojenec@github:~$ cat profile.txt
