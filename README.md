@@ -28,7 +28,7 @@ volojenec@github:~$ ./status
 [ CATALYST 26.2 ]  ███████░░░  in progress
 ```
 
-## 📬 Find me
+## `$ find`
 
 [![GitHub](https://img.shields.io/badge/GitHub-volojenec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/volojenec)
 
