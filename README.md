@@ -2,8 +2,6 @@
 
 # 💮 volojenec
 
----
-
 ## `$ whoami volojenec`
 
 ```text
