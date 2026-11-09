@@ -2,57 +2,34 @@
 
 # 💮 volojenec
 
-`ideas` · `projects` · `experiments`
+`projects`
 
 </div>
 
 ---
 
-## ⚙️ `$ whoami`
+## `$ whoami` `volojenec`
 
 ```text
 volojenec@github:~$ cat profile.txt
 
 name      : volojenec
-status    : creating & exploring
-focus     : Catalyst 26.2
+status    : reverse engineering & coding
+project's : catalyst 26.2
 workspace : ideas, projects and experiments
 
 volojenec@github:~$ ./status
-[ OK ] curiosity
-[ OK ] ideas in progress
-[ ... ] Catalyst 26.2 — soon
+[ OK ] coding
+[ SOON ] catalyst 26.2
 ```
 
 ---
 
-## 🧰 Workspace
-
-| | Что здесь |
-|:--|:--|
-| 💡 | Идеи и эксперименты |
-| 🛠️ | Проекты в разработке |
-| 💮 | Всё, что хочется попробовать и создать |
-
 ---
-
-## 🚀 Current focus — Catalyst 26.2
-
-> Скоро. Следи за обновлениями в профиле.
 
 ```text
 [ CATALYST 26.2 ]  ███████░░░  in progress
 ```
-
----
-
-## 📦 Projects
-
-| Проект | Статус |
-|:--|:--|
-| 💮 **Catalyst 26.2** | В разработке |
-| ✨ **Новые идеи** | Скоро |
-
 ---
 
 ## 📬 Find me
