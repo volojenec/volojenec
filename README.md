@@ -22,15 +22,11 @@ volojenec@github:~$ ./status
 [ OK ] coding
 [ SOON ] catalyst 26.2
 ```
-
----
-
 ---
 
 ```text
 [ CATALYST 26.2 ]  ███████░░░  in progress
 ```
----
 
 ## 📬 Find me
 
